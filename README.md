@@ -24,9 +24,9 @@ A fully responsive blog website built using **HTML, CSS, and JavaScript**. Users
 
 ## 📸 Screenshots
 
-![Blog UI](screenshots/blog-ui.png)
-![Add Blog Form](screenshots/add-form.png)
-![Mobile View](screenshots/mobile-view.png)
+![Add Blog Form](https://github.com/Mehtab2002/simple-blog-site/blob/35ff79ff1afa762ac694a628bf25ab9c1f935cd6/Screenshots/generate%20blog.png)
+![Blog UI](https://github.com/Mehtab2002/simple-blog-site/blob/35ff79ff1afa762ac694a628bf25ab9c1f935cd6/Screenshots/blogs.png)
+![Mobile View](https://github.com/Mehtab2002/simple-blog-site/blob/ca39c24cb9499753ae3b972da5d3715c573db56d/Screenshots/mobile%20view.png)
 
 ## 📁 Folder Structure
 simple-blog-site/
