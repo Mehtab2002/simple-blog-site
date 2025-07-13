@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+
+
+    <div class="container">
+
+        <!-- Generate the Blog -->
+   <div class="generate-container">
+
+  <div class="image-box"><img src="default.jpg" alt=""></div>
+
+  <div class="button-box">
+    <label class="blue-btn" for="imageInput">Choose Image</label>
+    <input type="file" id="imageInput" hidden>
+  </div>
+
+  <div class="input-box">
+    <input type="text" placeholder="Enter Your Blog Title" class="btitle">
+  </div>
+
+  <div class="input-box">
+    <textarea placeholder="Enter Your Blog Description" class="bdescription"></textarea>
+  </div>
+<div class="post"> <button class="blue-btn" onclick="post()">Post</button></div>
+
+</div>
+
+
+        <!-- Generated Bolgs Structure -->
+
+        <div class="cardcontainer">
+        
+        </div>
+    </div>
+
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
